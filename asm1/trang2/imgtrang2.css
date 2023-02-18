@@ -1,0 +1,166 @@
+.columb>.image{
+
+    width: 298px;
+    height: 300px;
+    text-align: center;
+}
+.columb>.image>.image-25{
+    background-image: url(/anh/anhtruoc25.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-25:hover{
+    background-image: url('/anh/anhsau25.png');   
+}
+
+
+.columb>.image>.image-26{
+    background-image: url(/anh/anhsau26.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-26:hover{
+    background-image: url('/anh/anhtruoc26.png');   
+}
+
+
+.columb>.image>.image-27{
+    background-image: url(/anh/anhtruoc27.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-27:hover{
+    background-image: url('/anh/anhsau27.png');   
+}
+
+
+.columb>.image>.image-28{
+    background-image: url(/anh/anhtruoc28.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-28:hover{
+    background-image: url('/anh/anhsau28.png');   
+}
+
+
+.columb>.image>.image-29{
+    background-image: url(/anh/anhtruoc29.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-29:hover{
+    background-image: url('/anh/anhsau29.png');   
+}
+
+
+.columb>.image>.image-30{
+    background-image: url(/anh/anhtruoc30.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-30:hover{
+    background-image: url('/anh/anhsau30.png');   
+}
+
+
+.columb>.image>.image-31{
+    background-image: url(/anh/anhtruoc31.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-31:hover{
+    background-image: url('/anh/anhsau31.png');   
+}
+
+
+.columb>.image>.image-32{
+    background-image: url(/anh/anhtruoc32.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-32:hover{
+    background-image: url('/anh/anhsau32.png');   
+}
+
+
+.columb>.image>.image-33{
+    background-image: url(/anh/anhtruoc33.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-33:hover{
+    background-image: url('/anh/anhsau33.png');   
+}
+
+
+.columb>.image>.image-34{
+    background-image: url(/anh/anhtruoc34.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-34:hover{
+    background-image: url('/anh/anhsau34.png');   
+}
+
+
+.columb>.image>.image-35{
+    background-image: url(/anh/anhtruoc35.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-35:hover{
+    background-image: url('/anh/anhsau35.png');   
+}
+
+
+.columb>.image>.image-36{
+    background-image: url(/anh/anhtruoc36.png);
+    background-size: 100% 100%;
+    width: 298px;
+    height: 300px;
+    transition: all 0.15s ease-in-out;    
+}
+.columb>.image>.image-36:hover{
+    background-image: url('/anh/anhsau36.png');   
+}
+
+
+
+
+
+.columb>.image>.out{
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9;
+    opacity: 1;
+    width: 298px;
+    height: 80px;
+}
+
+
+
